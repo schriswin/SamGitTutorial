@@ -1,1 +1,2 @@
-This is where we do data ingestion
+This is where we do data ingestion.
+Batch data is ingested here.
